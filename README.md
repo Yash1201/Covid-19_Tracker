@@ -1,6 +1,31 @@
-# coronatracker
+# Corona Cases Tracker
 
-A Corona Tracker Flutter application.
+This flutter app provide number of covid-19 cases in different states of India as well as different country across the World.
+
+
+Download the `apk-release.apk` to try out Corona Cases Tracker
+<br>
+<br>
+<a href="https://drive.google.com/drive/folders/1TxT3AT04ssEAqz_ZmvGH-mNIlmNON8ip?usp=sharing"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+
+# ✨ Requirements
+- Any Operating System (ie. MacOS X, Linux, Windows)
+- Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+- A little knowledge of Dart and Flutter
+- Some fingers to code 😂
+
+Installation
+
+```
+flutter pub get
+```
+Usage
+
+```
+flutter run
+```
+
+## A Corona Tracker Flutter application.
 
 ## Getting Started
 
